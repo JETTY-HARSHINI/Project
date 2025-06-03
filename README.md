@@ -1,1 +1,1 @@
-# Project (tic-tac-toe and soil management agent )
+# Project (tic-tac-toe )
